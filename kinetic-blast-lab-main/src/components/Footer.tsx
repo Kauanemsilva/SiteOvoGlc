@@ -18,7 +18,7 @@ export function Footer() {
               </span>
             </div>
             <p className="text-background/70 max-w-sm leading-relaxed">
-              Ovos caipiras de galinhas felizes, criadas livres ao sol. Da nossa fazenda direto para o seu ninho, com o cuidado de gerações.
+              Ovos selecionados de galinhas felizes, criadas livres ao sol. Da nossa fazenda direto para o seu ninho, com o cuidado de gerações.
             </p>
           </div>
 

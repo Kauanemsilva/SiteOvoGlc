@@ -67,7 +67,7 @@ const Index = () => {
               para o seu ninho.
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-xl mx-auto font-light">
-              Ovos caipiras de galinhas felizes, colhidos ao amanhecer.
+              Ovos selecionados de galinhas felizes, colhidos ao amanhecer.
             </p>
           </motion.div>
 
