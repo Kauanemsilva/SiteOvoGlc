@@ -23,7 +23,7 @@ export function Header() {
             <Egg className="h-5 w-5 text-primary-foreground" strokeWidth={2} />
           </span>
           <span className="font-display text-2xl md:text-3xl font-semibold tracking-tight">
-            Vale do <span className="italic text-primary">Ninho</span>
+           Terra <span className="italic text-primary">On</span>
           </span>
         </a>
 
@@ -45,7 +45,7 @@ export function Header() {
           ))}
         </ul>
 
-        <a href="#contact" className="hidden md:inline-flex btn-organic !px-6 !py-2.5 !text-sm">
+        <a href= "https://wa.me/5511959115896?   text=🐔Olá!%20Vi%20que%20voc%C3%AAs%20trabalham%20com%20ovos%20e%20fiquei%20interessado.           %20Pode%20me%20explicar%20as%20op%C3%A7%C3%B5es%20dispon%C3%ADveis%20e%20como%20fa%C3%A7o%20pra%20comprar?" target="_blank" rel="noopener noreferrer" className="hidden md:inline-flex btn-organic !px-6 !py-2.5 !text-sm">
           Comprar agora
         </a>
       </nav>

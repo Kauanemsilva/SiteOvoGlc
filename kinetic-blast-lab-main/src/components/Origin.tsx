@@ -60,11 +60,11 @@ export function Origin() {
             className="space-y-6 text-lg text-muted-foreground leading-relaxed"
           >
             <p>
-              Há três gerações cuidamos das nossas galinhas como parte da família. Elas vivem soltas,
+              Cuidamos das nossas galinhas como parte da família. Elas vivem soltas,
               ciscam livres no pasto e descansam à sombra das mangueiras — como sempre foi.
             </p>
             <p>
-              Cada ovo é colhido à mão, ainda quente do ninho. Da palha à sua cozinha, é uma
+              Cada ovo é colhido à mão, ainda quente do ninho. Da palha ao seu ninho, é uma
               jornada curta — mas cheia de história.
             </p>
           </motion.div>
@@ -77,7 +77,7 @@ export function Origin() {
             className="mt-10 flex items-center gap-6"
           >
             <div className="h-px flex-1 bg-gradient-to-r from-primary/60 to-transparent" />
-            <p className="font-display italic text-xl text-primary">— Família Vale do Ninho</p>
+            <p className="font-display italic text-xl text-primary">— Família TerraOn</p>
           </motion.div>
         </div>
       </div>

@@ -6,8 +6,8 @@ import eggsBasket from "@/assets/eggs-basket.jpg";
 const cards = [
   {
     img: farmSunrise,
-    title: "Fazenda ao amanhecer",
-    desc: "Cada dia começa com o canto do galo e a luz dourada banhando os campos. É aqui que tudo nasce.",
+    title: "Criação",
+    desc: "O dia começa cedo, com o canto do galo e a luz chegando devagar. É assim que a rotina por aqui ganha vida.",
   },
   {
     img: freeHens,
@@ -55,18 +55,12 @@ const About = () => {
             A nossa origem
           </span>
           <h2
-            className={`mt-4 font-display text-4xl md:text-6xl font-medium leading-tight text-balance transition-all duration-1000 ease-organic ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
+            className={`mt-4 font-display text-4xl md:text-6xl font-medium leading-tight text-balance text-[#6B8E23] transition-all duration-1000 ease-organic ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
           >
             Onde a vida acontece{" "}
             <span className="italic text-accent">devagar</span>.
           </h2>
-          <p
-            className={`mt-6 font-serif text-lg md:text-xl text-foreground/70 leading-relaxed transition-all duration-1000 delay-150 ease-organic ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
-          >
-            Não somos uma fábrica. Somos uma fazenda. Cada ovo que chega até
-            você carrega o som do campo, o cheiro da palha e o tempo certo de
-            quem respeita a natureza.
-          </p>
+
         </div>
 
         <div className="grid gap-8 md:grid-cols-3">

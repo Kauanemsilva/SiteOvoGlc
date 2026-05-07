@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const items = [
   { icon: Sun, title: "Natural", desc: "Galinhas criadas livres no pasto, ao sol da manhã. Sem confinamento, sem pressa, sem atalhos." },
-  { icon: Sprout, title: "Fresco", desc: "Coletados todos os dias antes do meio-dia e entregues diretamente — do ninho à sua mesa em até 24h." },
+  { icon: Sprout, title: "Fresco", desc: "Coletados todos os dias antes do meio-dia." },
   { icon: Leaf, title: "Sustentável", desc: "Manejo regenerativo do solo, alimentação orgânica e compromisso real com o equilíbrio da fazenda." },
   { icon: Heart, title: "Cuidado", desc: "Cada ovo carrega o cuidado de quem acorda cedo e vê o sol nascer sobre o ninho. Tradição que se prova no sabor." },
 ];

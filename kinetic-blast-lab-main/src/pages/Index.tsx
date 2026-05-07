@@ -12,7 +12,7 @@ import { useEffect } from "react";
 
 const Index = () => {
   useEffect(() => {
-    document.title = "Vale do Ninho — Ovos caipiras frescos, direto da fazenda para sua mesa";
+    document.title = "Terra On — Ovos de qualidade, direto para o seu ninho ";
     const meta =
       document.querySelector('meta[name="description"]') ||
       (() => {
@@ -55,11 +55,16 @@ const Index = () => {
             transition={{ duration: 1.2, delay: 0.4 }}
             className="text-center max-w-5xl"
           >
-            <p className="uppercase text-xs md:text-sm tracking-[0.5em] text-primary mb-5">— Vale do Ninho · desde 1962 —</p>
+            <p className="uppercase text-xs md:text-sm tracking-[0.5em] text-primary mb-5">
+              — TerraOn · desde 2026 —
+            </p>
             <h1 className="font-display text-5xl md:text-8xl font-medium leading-[0.95]">
-              Direto da <span className="italic text-glow-warm text-primary">natureza</span>
+              Ovos de{" "}
+              <span className="italic text-glow-warm text-primary">
+                qualidade
+              </span>
               <br />
-              para sua mesa.
+              para o seu ninho.
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-xl mx-auto font-light">
               Ovos caipiras de galinhas felizes, colhidos ao amanhecer.
@@ -73,12 +78,20 @@ const Index = () => {
             className="flex flex-col items-center gap-6 pointer-events-auto"
           >
             <p className="text-muted-foreground text-center text-sm md:text-base italic">
-              Toque no ninho. <span className="text-primary not-italic">Sinta a vida nascer.</span>
+              Toque no ninho.{" "}
+              <span className="text-primary not-italic">
+                Sinta a vida nascer.
+              </span>
             </p>
-            <button className="btn-organic group">
-              Comprar agora
-              <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
-            </button>
+                  <a
+                    href="https://wa.me/551195911896?                  text=🐔Olá!%20Vi%20que%20voc%C3%AAs%20trabalham%20com%20ovos%20e%20fiquei%20interessado.                  %20Pode%20me%20explicar%20as%20op%C3%A7%C3%B5es%20dispon%C3%ADveis%20e%20como%20fa%C3%A7o%20pra%20comprar?"
+                    className="btn-organic group"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Comprar agora
+                    <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
+                  </a>
             <div className="flex items-center gap-3 text-xs uppercase tracking-[0.4em] text-muted-foreground/70">
               <span className="h-px w-8 bg-primary/60" />
               role para descobrir
