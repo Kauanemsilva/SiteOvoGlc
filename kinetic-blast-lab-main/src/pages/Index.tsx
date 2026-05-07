@@ -84,7 +84,7 @@ const Index = () => {
               </span>
             </p>
                   <a
-                    href="https://wa.me/551195911896?                  text=🐔Olá!%20Vi%20que%20voc%C3%AAs%20trabalham%20com%20ovos%20e%20fiquei%20interessado.                  %20Pode%20me%20explicar%20as%20op%C3%A7%C3%B5es%20dispon%C3%ADveis%20e%20como%20fa%C3%A7o%20pra%20comprar?"
+                    href= "https://shopee.com.br/product/540108200/58256953128/"
                     className="btn-organic group"
                     target="_blank"
                     rel="noopener noreferrer"
