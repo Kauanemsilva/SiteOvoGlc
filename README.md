@@ -3,7 +3,7 @@
 
 <img width="400" height="161" alt="gif pc" src="https://github.com/user-attachments/assets/95fd9518-64b0-4a8c-9cae-b35558c6e3de" />
 
-# Kinetic Blast Lab
+# Site venda Ovos
 
 Uma experiência web moderna com efeitos visuais impressionantes e animações suaves. Explore a intersecção entre design e tecnologia.
 
