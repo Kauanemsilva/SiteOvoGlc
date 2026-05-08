@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./kinetic-blast-lab-main/src/assets/gif pc.gif" width="400" />
+</p>
+
+
 # Kinetic Blast Lab
 
 Uma experiência web moderna com efeitos visuais impressionantes e animações suaves. Explore a intersecção entre design e tecnologia.
