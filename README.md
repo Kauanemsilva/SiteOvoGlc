@@ -1,3 +1,5 @@
+<img width="220" alt="gif celular" src="https://github.com/user-attachments/assets/ce0ae14b-724c-4e57-abb5-3403ecda59fc" /> <br>
+
 
 <img width="400" height="161" alt="gif pc" src="https://github.com/user-attachments/assets/95fd9518-64b0-4a8c-9cae-b35558c6e3de" />
 
