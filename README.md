@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="assets/gif pc.gif" width="400" />
-</p>
-
 
 # Kinetic Blast Lab
 
