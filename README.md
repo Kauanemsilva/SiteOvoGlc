@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./kinetic-blast-lab-main/src/assets/gif pc.gif" width="400" />
+  <img src="assets/gif pc.gif" width="400" />
 </p>
 
 
