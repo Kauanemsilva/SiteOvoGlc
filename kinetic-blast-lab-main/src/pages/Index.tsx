@@ -12,7 +12,7 @@ import { useEffect } from "react";
 
 const Index = () => {
   useEffect(() => {
-    document.title = "Terra On — Ovos de qualidade, direto para o seu ninho ";
+    document.title = "Ovos Selecionados em São Paulo | Terraon ";
     const meta =
       document.querySelector('meta[name="description"]') ||
       (() => {
