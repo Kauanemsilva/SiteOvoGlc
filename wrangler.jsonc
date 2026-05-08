@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "terraon",
+  "compatibility_date": "2026-05-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "kinetic-blast-lab-main"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
